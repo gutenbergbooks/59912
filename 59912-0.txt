@@ -1,29 +1,7 @@
-The Project Gutenberg EBook of The Rock Ahead. (Vol. 2 of 2), by Edmund Yates
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: The Rock Ahead. (Vol. 2 of 2)
-       A Novel
-
-Author: Edmund Yates
-
-Release Date: July 15, 2019 [EBook #59912]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE ROCK AHEAD. (VOL. 2 OF 2) ***
+*** START OF THE PROJECT GUTENBERG EBOOK 59912 ***
 
 
 
-
-Produced by Charles Bowen
 
 
 
@@ -79,7 +57,7 @@ CHAPTER IV. Pursuit.
 
 BOOK THE THIRD.
 
-         I. Ægrotat Animo.
+         I. Ã†grotat Animo.
         II. Recognition.
        III. A Mine is laid.
         IV. Perplexity.
@@ -345,7 +323,7 @@ career, and it was purely as a matter of friendship that he had come
 to warn her, through her ablest and best friend, of the danger she
 incurred in forming a certain acquaintance. So well did Mrs. Bloxam
 play her listening part, and so earnest was she in her thanks to her
-informant, that even the _rousé_ turfite was taken in, and went away
+informant, that even the _rousÃ©_ turfite was taken in, and went away
 convinced that he had made his _coup_.
 
 A few days afterwards he called again, and this time asked for Miss
@@ -1076,7 +1054,7 @@ the chance of speaking to her. Give him that opportunity, and she
 would tell a very different tale. He should have that opportunity if
 he met her face to face in society; it would be impossible for her,
 without committing a palpable rudeness--and Gilbert Lloyd knew well
-that she would never do that--to avoid speaking to him. _Château qui
+that she would never do that--to avoid speaking to him. _ChÃ¢teau qui
 parle est pret de se render_. A true proverb that; and he made up his
 mind to tell Lord Ticehurst to take him to Mrs. Stapleton Burge's
 gathering, and to run his chance with Gertrude.
@@ -1151,7 +1129,7 @@ out of her mouth.
 When Lord Ticehurst and Gilbert Lloyd arrived at the hospitable
 mansion, they found the rooms crowded. It was a great but trying
 occasion for Mrs. Burge--trying, because it was plainly the farewell
-_fête_ of the season; and all the guests were talking to one another
+_fÃªte_ of the season; and all the guests were talking to one another
 of where they were going to, while she, poor woman, had a dreary waste
 of seven months before her, to be passed away from the delights of
 fashionable life. To how many people did she promise a speedy meeting
@@ -1164,7 +1142,7 @@ the present gathering was unimpeachable. Everybody who was left in
 London had rallied round Great Swaffham-street; and there was no doubt
 but that the _Morning Post_ of the coming day would convey to the ends
 of the civilised world a list of fashionables which would redound in
-the most complete manner to the _éclat_ of Mrs. Stapleton Burge.
+the most complete manner to the _Ã©clat_ of Mrs. Stapleton Burge.
 
 The necessary form of introduction had been gone through--scarcely
 necessary, by the way, in Great Swaffham-street; for the men always
@@ -1403,7 +1381,7 @@ Scandaleuse_ of the period?"
 that no gentleman should so carry on his _amourettes_ that the world
 should talk about them. But the idea of your thinking that I should
 be astonished when you told me that you were head over ears in love
-with--with Miss Lambert! _Nourri dans le sérail j'en connais les
+with--with Miss Lambert! _Nourri dans le sÃ©rail j'en connais les
 detours_, Master Miles."
 
 "And if not astonished, you were also not annoyed?"
@@ -1537,7 +1515,7 @@ hurried away."
 
 "Well, I don't think that proceeding ought to cause you much
 disquietude, Master Miles. In all probability, from what you say, Miss
-Lambert was giving Mr. Lloyd his _congé_, or, at all events, saying
+Lambert was giving Mr. Lloyd his _congÃ©_, or, at all events, saying
 something not very pleasant to him. Have you ever spoken to her about
 Lloyd?"
 
@@ -1706,7 +1684,7 @@ He was not, as times go, an immoral man, certainly not a wicked one;
 but he lived in a loose set, and it did not arise from conscientious
 scruples that he had not "tried it on" that Grace Lambert should
 become his mistress. Such a result would have given him considerable
-_éclat_ amongst his friends, and his religious notions were not
+_Ã©clat_ amongst his friends, and his religious notions were not
 sufficiently developed to make him shrink from taking such a step. He
 did _not_ take it because he knew it would be useless; because he knew
 that any such offer would be ignominiously rejected; that he would be
@@ -1733,7 +1711,7 @@ thought there was a chance of meeting her walking in the Park (he had
 met her once, and solemnly walked between her and Mrs. Bloxam for an
 hour without saying a word); and he had cut the _ballet_ and its
 professors, with whom formerly he had very liberal relations. The
-_coryphées_ and the little _rats_, whom he had been in the habit of
+_coryphÃ©es_ and the little _rats_, whom he had been in the habit of
 calling by their Christian names, who knew him by the endearing
 abbreviation of "Ticey," and to whom formerly he was delighted to
 stand and talk by the hour, received the coldest of bows from their
@@ -1763,7 +1741,7 @@ Lord Ticehurst knew his aunt, Lady Carabas, quite well enough to be
 aware that, though she was the first _grande dame_ who had introduced
 Miss Lambert into society, and that though up to that minute she had
 been the young lady's most steadfast friend, she would be the very
-first to rail against the _mésalliance_, and do all she could to cry
+first to rail against the _mÃ©salliance_, and do all she could to cry
 down that reputation which she had so earnestly vaunted. Others would
 follow suit at once, and he and his wife would have to run the
 gauntlet. His wife! Ah, that was just the point; he would not care a
@@ -1834,7 +1812,7 @@ donna_ for a tour during the winter months, in the course of which she
 would visit the principal cities in England, Ireland, and Scotland,
 accompanied by a _troupe_ of distinguished talent, superintended
 by Mr. Munns himself, who would lend all the resources of the
-justly-celebrated band and _répertoire_ of the Grand Scandinavian
+justly-celebrated band and _rÃ©pertoire_ of the Grand Scandinavian
 Opera-house to the success of the design.
 
 Gilbert Lloyd, who had felt his colour ebb when he first saw his
@@ -1925,7 +1903,7 @@ here."
 
 Within half an hour Lord Ticehurst's phaeton came spinning round to
 the door of the hotel, and Gilbert, stepping out on to the balcony,
-saw him--got up to the highest pitch of sporting _négligé_--drive off
+saw him--got up to the highest pitch of sporting _nÃ©gligÃ©_--drive off
 amid the unsuppressed admiration of the bystanders. Then Lloyd walked
 back into the room and flung himself on a sofa, and lit a fresh cigar,
 and as he puffed at it, soliloquised, "What was that I saw on a seal
@@ -2028,7 +2006,7 @@ their paces, Lord Ticehurst's spirits sunk simultaneously. Suppose it
 were all right with the lady, what about the rest of the people? Not
 his following--not Bardolph, Nym, and Pistol, and the rest of the
 crew. Lord Ticehurst might not be a clever man, but he had
-sufficiently "reckoned up" his _clientèle_, and he knew, whatever they
+sufficiently "reckoned up" his _clientÃ¨le_, and he knew, whatever they
 might think, none of their tongues would wag. But the outsiders--the
 "society" people--what would they say to his bringing a lady from the
 boards of the opera to sit at the head of his table at home, and
@@ -2037,7 +2015,7 @@ he knew that fast enough. O yes, of course they'd say that he was not
 the first who'd done it, and it had always been a great success
 hitherto, and so on; but still he had to look to his own position and
 hers, and--by Jove, Lady Carabas! she'd make it pleasant for them, and
-no mistake! Her ladyship liked her _protégée_, liked to flaunt her in
+no mistake! Her ladyship liked her _protÃ©gÃ©e_, liked to flaunt her in
 the eyes of rival lion-hunters, gloried in the success she achieved,
 and the excitement she created; but her nephew knew well enough what
 her feelings would be if she had to acknowledge the brilliant _prima
@@ -2086,9 +2064,9 @@ disposition; at home she visited all the old women, and helped the
 curate, and gave largely to the Flannel Club, and looked after the
 schools, and worried the doctor, and played the harmonium in the
 village-church on Sunday; and in town, what with the opera three
-nights a-week, and the Monday Popular Concerts, and the _matinées_ and
-_soirées musicales_ of distinguished creatures, with a dash of Exeter
-Hall oratorio, and a _soupçon_ of Philharmonic, the old lady's life
+nights a-week, and the Monday Popular Concerts, and the _matinÃ©es_ and
+_soirÃ©es musicales_ of distinguished creatures, with a dash of Exeter
+Hall oratorio, and a _soupÃ§on_ of Philharmonic, the old lady's life
 was one whirl of delight. Lady Belwether had fallen in love with
 Gertrude at first sight. She was by no means a gushing old lady, nor,
 though so devoted to music, had she ever made the acquaintance of any
@@ -2219,7 +2197,7 @@ You are not a geologist, I believe, my lord?"
 "Well, no," said Lord Ticehurst frankly; "that ain't my line."
 
 "N-no," said the Dean. "Well, we all have our different tastes--_tot
-homines, quot sententiæ_. Your father was a man who was passionately
+homines, quot sententiÃ¦_. Your father was a man who was passionately
 fond of science; indeed, I often used to wonder how a man absorbed as
 he was in what generally proves to ethers the all-engrossing study of
 politics could find time for the discussion of scientific
@@ -2332,7 +2310,7 @@ and making for the door. "I hope you won't think anything of it,
 I--good-morning!--Damme if I know whether I'm on my head or my heels,"
 he added when he got outside, and was alone.
 
-Lord Ticehurst was so completely _bouleversé_ that he scarcely knew
+Lord Ticehurst was so completely _bouleversÃ©_ that he scarcely knew
 how he got to his phaeton, or how he tooled the roans, who were
 additionally frisky after the Belwether oats, down the avenue. He knew
 nothing until he got to the gate, on the other side of which was an
@@ -2730,7 +2708,7 @@ over her from head to foot. He was afraid to go, afraid to stay; at
 length he obeyed her, and took the way towards the house which she had
 indicated, feeling bewildered and alarmed.
 
-When Miles Challoner reëntered the drawing-room at Hardriggs he found
+When Miles Challoner reÃ«ntered the drawing-room at Hardriggs he found
 Lord Sandilands still there, held in durance by Lady Belwether and
 Mrs. Bloxam. Lord Sandilands had found his hostess immovable, and no
 other afternoon callers had had the kindness to come and partially
@@ -2791,7 +2769,7 @@ BOOK THE THIRD.
 
 
 CHAPTER I.
-Ægrotat Animo.
+Ã†grotat Animo.
 
 
 Miss Grace Lambert had made herself so popular at Hardriggs, had so
@@ -2960,7 +2938,7 @@ neighbourhood is there not the sanatorium of the celebrated Mr. Crux?
 a gentleman who has discovered the secret that no mortal ailment can
 withstand being rubbed in a peculiar manner, and who shampoos you, and
 rubs you, and pulls your joints, and pommels you all over until you
-become a miracle of youth and freshness, to which the renovated Æson
+become a miracle of youth and freshness, to which the renovated Ã†son
 could not be compared.
 
 It is not for an instant to be supposed that any of this unlicensed
@@ -3108,7 +3086,7 @@ see."
 
 "That's spoken like my dear good fellow! Goodbye, Miles, goodbye!--If
 he does come across her in the house or the grounds?" said the old
-gentleman, as the door closed behind his _protégé_. "Well, you never
+gentleman, as the door closed behind his _protÃ©gÃ©_. "Well, you never
 can tell; it might have been whim, a mere passing caprice, in which
 case she might be perfectly ready to revoke to-day; and no harm could
 be done by his meeting her again. Or it might be something more
@@ -3149,7 +3127,7 @@ young nobleman's manner had been specially odd and remarkable. Could
 it have been that--and yet the expression of Lord Ticehurst's face was
 chapfallen and disconsolate, anything but that of a successful suitor.
 All the world had said, during the past season, that his lordship had
-been very strongly _épris_ of Miss Lambert, he had paid her constant
+been very strongly _Ã©pris_ of Miss Lambert, he had paid her constant
 attention, and-- That could have had no influence on her decision of
 yesterday; she could never have listened to Lord Ticehurst's
 protestations, even if he had made any such, or he would not have gone
@@ -3373,7 +3351,7 @@ mistress of herself to bow and utter a few polite commonplaces.
 "I could not get an opportunity of speaking to you yesterday,"
 continued his lordship; "but I know how generally observant you are,
 and I am sure you cannot have failed to remark that my visit to
-Hardriggs with my young _protégé_--for so I must regard Mr.
+Hardriggs with my young _protÃ©gÃ©_--for so I must regard Mr.
 Challoner--was not a mere ceremonious call. There is no need in
 disguising from you--if indeed you do not know it already--that he is
 desperately in love with Gertrude. It will further tend to place us in
@@ -3403,7 +3381,7 @@ because, thank God, she inherits a certain proper pride; and she felt
 that she, an unknown woman--unknown so far as family and friends are
 concerned, and with a precarious income dependent on her health and
 strength--was not going to permit a member of an old county family to
-enter into what might be thought a _mésalliance_ for her."
+enter into what might be thought a _mÃ©salliance_ for her."
 
 "Very proper," murmured Mrs. Bloxam, having nothing else to say.
 
@@ -4307,7 +4285,7 @@ shown him nothing but kindness ever since he had known him. Ever since
 he had known him? Well, that was not so long ago, when he came to
 think about it, but it seemed like his whole life. He thought with an
 odd kind of incredulous wonder on that portion of his life anterior to
-his acquaintance with Gilbert Lloyd. The Plater-Dobbs _régime_ seemed
+his acquaintance with Gilbert Lloyd. The Plater-Dobbs _rÃ©gime_ seemed
 like a dream. He was a vulgar old cad, the Plater, but he would not
 have played double, he would not have allowed any of the fellows to
 chaff. No fellows had ever been allowed to chaff him, even at
@@ -4454,7 +4432,7 @@ hereditary legislature. You astound me!"
 to drop that style of chaff; I don't see the fun of it."
 
 "You never saw the fun of anything, Etchingham; it is not your
-_métier_; Providence has ordained otherwise. It's for us poor devils
+_mÃ©tier_; Providence has ordained otherwise. It's for us poor devils
 to see the fun that you big swells make for us."
 
 Rage swelled within Lord Ticehurst's heart as he listened to these
@@ -5277,7 +5255,7 @@ Sandilands and Miss Lambert for foreign parts; and as it was some
 little time before it got hold, of anything like a correct version of
 the story, it started some very pretty and ingenious theories to
 account for that "unaccountable" proceeding. Managers were savage,
-_débutantes_ delighted, and Lady Carabas, who knew nothing whatever of
+_dÃ©butantes_ delighted, and Lady Carabas, who knew nothing whatever of
 the matter, was charmingly mysterious, and assured everyone that her
 dear Grace had been guided in everything by her advice, and that that
 dear Lord Sandilands was the most perfect of creatures, and had
@@ -5957,7 +5935,7 @@ compliments to my lord."
 
 "Something that concerns me more than it does him? That would be
 awkward for me if it got blown? What the devil does he mean?" said
-Lloyd to himself, as he walked down the _allée_. "Awkward for me?--the
+Lloyd to himself, as he walked down the _allÃ©e_. "Awkward for me?--the
 old brute was drunk, and did not know what he said. Probably a plant
 to get more money out of me. He _could_ know nothing that would have
 the slightest bearing on me or my affairs. I daresay he'll try it on
@@ -5994,7 +5972,7 @@ by family ties to Lady Carabas, never allowed his clanship to "mix him
 up in any of her ladyship's rum starts," as he phrased it--and Gilbert
 Lloyd, whose worn and haggard appearance was the cause of much
 solicitude and anxious inquiry from Lady Carabas. Lloyd appeared
-rather annoyed at the _prononcé_ manner which her ladyship adopted
+rather annoyed at the _prononcÃ©_ manner which her ladyship adopted
 towards him, and at which some of the most daring followers smiled,
 more especially when the reigning favourite, the gentleman in the
 Foreign Office, looked very much displeased. He seemed very much
@@ -6020,7 +5998,7 @@ come over here!"
 
 "I don't think there's much harm done, Duchess, even if all were as
 you say, which I am very far from admitting. Calypso is the only
-instance on record of a woman who '_ne pouvait se consoler après le
+instance on record of a woman who '_ne pouvait se consoler aprÃ¨s le
 depart_' of anyone she liked. I am certain that no lady of modern days
 would be so weak."
 
@@ -6221,9 +6199,9 @@ revelation, but not of the kind you imagine--a thousand times more
 serious. There's never been much love lost between you and me, Lloyd,
 and you may wonder why I'm here to counsel and help you; so understand
 at once, it's for Ticehurst's sake; you're so mixed up with him that
-any public _exposé_ would be the deuce and all for him."
+any public _exposÃ©_ would be the deuce and all for him."
 
-"What do you mean by public _exposé_, Mr. Clarke? what do you--"
+"What do you mean by public _exposÃ©_, Mr. Clarke? what do you--"
 
 "Stop; don't bounce--it won't do. Do you remember when we dined at
 Richmond six weeks ago, you answered me very sharply because I asked
@@ -6301,7 +6279,7 @@ Mr. Toshington is one of them. He thinks it a "deuced odd story," and
 sets about to investigate it. He sees the landlord, porter, waiters,
 _Hausknecht_ of the hotel, every individual separately, and puts them
 through the strictest investigation in the most extraordinary
-_mélange_ of languages; finally, he goes to the telegraph-office and
+_mÃ©lange_ of languages; finally, he goes to the telegraph-office and
 ascertains triumphantly that for the Herr Lloyd, Englander, no
 telegraphic despatch received was. Tommy opines that Gilbert's absence
 has reference to some infernal chicanery connected with the turf, and
@@ -6996,7 +6974,7 @@ morning of the doctor who had been hastily summoned.
 
 
 "Gone, madam!" said the doctor, who was a snuffy Scotchman of the old
-school--"he's as dad as Jullius Cæsar. And this is another case o' the
+school--"he's as dad as Jullius CÃ¦sar. And this is another case o' the
 meschief of unauthorised parsons doctorin' themsalves and takkin'
 medicines in the dark."
 
@@ -7084,7 +7062,7 @@ supplying himself with a number of truly English "comforts"--most of
 which were entirely unintelligible to the simple people of the
 district, and caused him to be regarded with more than common awe--he
 established himself very satisfactorily at the hospitable hostelry of
-the Fer à Cheval, formerly the Convent of Sixt. There had always been
+the Fer Ã  Cheval, formerly the Convent of Sixt. There had always been
 a good deal of philosophical contentment in the disposition of Lord
 Sandilands, and under his present circumstances this useful mental
 characteristic grew stronger and more ready at call. Reflecting, as he
@@ -7161,7 +7139,7 @@ interesting, the most vital to the father and the daughter--there had
 been silence, and now Lord Sandilands wished to break it, but hardly
 knew how to do so.
 
-The time since the travellers had set up their rest at the Fer à
+The time since the travellers had set up their rest at the Fer Ã 
 Cheval had passed tranquilly away, and Gertrude had frequently assured
 her father that she had never enjoyed her foreign tour so much as now,
 when she found herself among the solemn and majestic beauties of the
@@ -7676,7 +7654,7 @@ friend either had ever possessed so darkened the horizon for them,
 that not even their mutual and avowed love could brighten it.
 
 By Lord Sandilands' desire Miles Challoner had sent for his solicitor,
-who arrived at the Fer à Cheval in time to be present at the funeral,
+who arrived at the Fer Ã  Cheval in time to be present at the funeral,
 and to whom Gertrude confided all the papers which her father had with
 him. Their contents were explicit. The greater portion of Lord
 Sandilands' property he had had the power to dispose of, and he had
@@ -7741,363 +7719,4 @@ PRINTING OFFICE OF THE PUBLISHER.
 
 End of Project Gutenberg's The Rock Ahead. (Vol. 2 of 2), by Edmund Yates
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE ROCK AHEAD. (VOL. 2 OF 2) ***
-
-***** This file should be named 59912-8.txt or 59912-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/9/9/1/59912/
-
-Produced by Charles Bowen
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 59912 ***
